@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of EchoVerse: AI Audiobook Creator",
+  "description": "An AI-powered audiobook creation tool that transforms user-provided text into expressive, downloadable audio content. Users can paste text or upload a file, select a tone (e.g., neutral, suspenseful), and the AI will rewrite the text and generate a high-quality voice narration.",
+  "requestFramePermissions": []
+}
